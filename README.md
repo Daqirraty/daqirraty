@@ -1,14 +1,8 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Daqirraty;Full-Stack+Web+%26+Mobile+Engineer;JavaScript+Systems+Architect;Designing+Scalable+Software+Systems" />
-</p>
-
 ## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
-<h1 align="center"> My name is Faruq Abiodun</h1>
-<h3 align="center">🚀 Stack: Full stack Web and Mobile Engineer </h3>
-
+My name is Faruq Abiodun
 ======================================================================================================================================
 
 🚀 Stack: Full stack Web and Mobile Engineer
