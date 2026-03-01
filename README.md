@@ -39,3 +39,142 @@ src="https://img.shields.io/twitter/follow/daqirraty?logo=twitter&style=for-the-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/daqirraty"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daqirraty&stroke=6366f1&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=6366f1&currStreakLabel=6366f1&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Daqirraty;Staff-Level+Full-Stack+Engineer;JavaScript+Systems+Architect;Designing+Scalable+Software+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Consulting-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 About
+
+Staff-level full-stack engineer specializing in scalable JavaScript systems across web and mobile platforms.
+
+I operate at the intersection of architecture, system design, and execution — shaping engineering direction while delivering production-grade software.
+
+---
+
+## 📊 Impact Metrics
+
+- 🚀 Architected systems supporting 10k+ concurrent users  
+- 📉 Reduced API response latency by 40% through service-layer refactoring  
+- 📦 Decreased frontend bundle size by 35% via modular restructuring  
+- ⚙️ Led migration from monolithic codebase to modular architecture  
+- 🔄 Improved CI/CD deployment time by 50%  
+- 👥 Mentored engineers and established code review standards  
+
+*(Replace with your real metrics — numbers matter at Staff level.)*
+
+---
+
+## 🏗 Architecture Philosophy
+
+- Simplicity scales better than complexity  
+- Clear system boundaries reduce long-term technical debt  
+- Observability and performance are first-class concerns  
+- Maintainability is a strategic investment  
+- Engineering standards multiply team velocity  
+
+---
+
+## ⚙️ Core Technical Stack
+
+### 🚀 Frontend Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js" />
+</p>
+
+### 🔧 Backend Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+</p>
+
+### 📱 Mobile Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=react,reactnative" />
+</p>
+
+### 🐳 Infrastructure & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,git" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daqirraty&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daqirraty&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daqirraty/daqirraty/output/snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+⚠️ After pushing this README, I’ll show you how to enable the snake animation workflow.
+
+---
+
+## 🎓 Talks / Writing / Thought Leadership
+
+- 📝 Writing on scalable JavaScript architecture  
+- 🎙 Speaking about frontend modularization & backend scalability  
+- 🧠 Mentoring engineers on system design principles  
+
+(You can later link blog posts, conference talks, or internal tech talks here.)
+
+---
+
+## 🏢 Companies I’ve Worked With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Company-YourCompany1-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Company-YourCompany2-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Company-YourCompany3-black?style=for-the-badge" />
+</p>
+
+(Replace with real companies — strong credibility signal.)
+
+---
+
+## 🧠 Currently Exploring
+
+- Advanced system design patterns  
+- Distributed system reliability  
+- Performance optimization at scale  
+- Event-driven architectures  
+- Platform engineering concepts  
+
+---
+
+## 🌍 Open to Opportunities
+
+Open to:
+
+- Remote Staff / Senior Engineering roles  
+- Architectural consulting  
+- High-impact contract engagements  
+- System design advisory  
+
+If you're building something ambitious and need strong technical direction — let's connect.
+
+---
+
+## 📬 Contact
+
+- LinkedIn: https://linkedin.com/in/YOUR-LINK  
+- Email: your.email@example.com  
