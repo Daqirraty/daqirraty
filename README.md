@@ -66,19 +66,6 @@ If you're building something ambitious and need strong technical direction — l
 
 ---
 
-## 🌍 Open to Opportunities
-
-Open to:
-
-- Remote Staff / Senior Engineering roles  
-- Architectural consulting  
-- High-impact contract engagements  
-- System design advisory  
-
-If you're building something ambitious and need strong technical direction — let's connect.
-
----
-
 ## 📬 Contact
 
 - LinkedIn: https://linkedin.com/in/faruq-abiodun  
